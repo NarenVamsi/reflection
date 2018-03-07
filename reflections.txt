@@ -1,0 +1,1 @@
+1) use diff -u to compare files in git and FC in windows 
